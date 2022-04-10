@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "deepak",
+      "age": "25",
+      "date_of_birth": "08081995",
+      "state_of_residence": "RZH 5A ",
+      "address": "Palam Colony",
+      "pincode": "110045",
+      "id": 1
+    },
+    {
+      "name": "deepak",
+      "age": "25",
+      "date_of_birth": "08081995",
+      "state_of_residence": "RZH 5A ",
+      "address": "Palam Colony",
+      "pincode": "110045",
+      "id": 2
+    },
+    {
+      "name": "deepak",
+      "age": "25",
+      "date_of_birth": "08081995",
+      "state_of_residence": "RZH 5A ",
+      "address": "Palam Colony",
+      "pincode": "110045",
+      "id": 3
+    }
+  ]
+}
